@@ -32,7 +32,7 @@ function Navbar() {
         </ul>
 
         <div className="navbar-actions">
-          <a href="https://github.com/kvnwave" target="_blank" className="btn-primary">github</a>
+          <a href="https://github.com/kvnwave" rel="noreferrer" className="btn-primary">github</a>
         </div>
       </nav>
     </div>

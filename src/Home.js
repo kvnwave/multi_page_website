@@ -1,6 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route, Link, useLocation } from "react-router-dom";
-
+import { Link } from "react-router-dom";
 function Home() {
   return (
     <section className="hero-section">

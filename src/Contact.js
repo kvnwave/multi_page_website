@@ -1,6 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route, Link, useLocation } from "react-router-dom";
-
+import { Link } from "react-router-dom";
 function Home() {
   return (
     <section className="hero-section">
@@ -28,7 +27,7 @@ function Home() {
       </div>
 
       <div className="hero-right">
-          <img src="photo 3.jpg" alt="descriptive alt text" className="hero-photo" />
+          <img src="photo 2.jpg" alt="descriptive alt text" className="hero-photo" />
         </div>
 
     </section>
